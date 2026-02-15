@@ -30,4 +30,4 @@ AI PCB Diagnozer provides:
 - Integrated schematics, BIOS, and IC datasheet access  
 - Personal diagnostic history tracking  
 
-The system transforms traditional trial-and-error r
+The system transforms traditional trial-and-error 
