@@ -4,7 +4,7 @@ AI PCB Diagnozer is an AI-assisted diagnostic platform designed to help laptop a
 
 ---
 
-## 🚀 Problem Statement
+##  Problem Statement
 
 Motherboard repair is highly dependent on technician experience. Fault diagnosis often involves trial-and-error testing, leading to:
 
@@ -17,8 +17,7 @@ Motherboard repair is highly dependent on technician experience. Fault diagnosis
 There is currently no intelligent system that combines impedance analysis, board recognition, and historical repair intelligence into one structured platform.
 
 ---
-
-## 💡 Solution Overview
+## Solution Overview
 
 AI PCB Diagnozer provides:
 
