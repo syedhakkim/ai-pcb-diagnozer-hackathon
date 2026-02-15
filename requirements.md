@@ -100,6 +100,8 @@ AI PCB Diagnozer is an AI-assisted diagnostic platform for laptop and desktop mo
 ## 7. Out of Scope (Prototype)
 - Automatic component-level thermal/IR integration from external hardware.
 - Fully automated probe-driven impedance measurement hardware (future roadmap).
+
+
 - Full multi-tenant deployment (future roadmap).
 
 ## 8. Acceptance Criteria (Prototype)
